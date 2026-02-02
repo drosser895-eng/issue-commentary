@@ -1,0 +1,34 @@
+# Topic Queue for Issue-Based Commentary
+# Add new topics here, one per line
+# Format: Title|Category|Brief description
+
+The True Cost of Subscription Creep|cost-of-living|How recurring subscriptions silently drain wallets
+Worker Rights in the Gig Economy|workers-workplace|Understanding protections for contract workers
+Patient Advocacy: Getting Second Opinions|healthcare-community|How to navigate medical disagreements
+Community Solar Programs Explained|climate-solutions|Local renewable energy options
+Encryption Basics for Regular Users|privacy-rights|Protecting personal data in daily activities
+City Council Meetings: Your Voice Matters|civic-basics|How to participate in local government
+Hidden Bank Fees and How to Avoid Them|cost-of-living|Understanding charges that aren't upfront
+Building Worker Cooperatives|workers-workplace|Alternative ownership models for workers
+Prescription Drug Cost Alternatives|healthcare-community|Ways to afford necessary medications
+Urban Heat Islands: Local Cooling Solutions|climate-solutions|How cities are addressing rising temperatures
+Privacy Settings for Social Media|privacy-rights|Protecting personal information online
+School Board Elections: Local Impact|civic-basics|Why these races matter for your community
+The Rise of Unbanked Households|cost-of-living|Challenges faced by those without traditional banking
+Whistleblower Protections for Workers|workers-workplace|Legal safeguards for reporting wrongdoing
+Community Health Centers Benefits|healthcare-community|Quality care regardless of ability to pay
+Carbon Dividend Proposals|climate-solutions|Policy ideas for climate action with economic benefits
+VPNs: When You Need Them|privacy-rights|Understanding legitimate privacy tool use
+Local Ballot Measures Guide|civic-basics|How to research and evaluate local propositions
+Price Transparency in Healthcare|cost-of-living|Understanding medical costs before treatment
+Union Membership Benefits|workers-workplace|How collective bargaining helps workers
+Generic vs Brand Name Medications|healthcare-community|When generics are equivalent and safe
+Green Bonds for Municipal Projects|climate-solutions|How cities fund environmental improvements
+Browser Privacy: Beyond Basic Settings|privacy-rights|Advanced techniques for online privacy
+Zoning Laws and Housing Affordability|civic-basics|How regulations affect housing costs
+Service Fee Disclosure Requirements|cost-of-living|Regulations to protect consumers
+Right-to-Work Laws Explained|workers-workplace|Impact on union membership and wages
+Telemedicine Regulations by State|healthcare-community|Where virtual care is available
+Renewable Energy Tax Credits|climate-solutions|Federal and state incentives for clean energy
+Data Brokers and Personal Information|privacy-rights|How your data becomes a commodity
+Public Transportation Funding|civic-basics|Why transit systems struggle for resources
